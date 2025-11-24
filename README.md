@@ -12,4 +12,6 @@ To run the program, there are two approaches:
   5. Take another set of 300 images by pressing S in another folder, this will be another gesture that the model will be able to recognize
   6. Ensure different gestures are in different folders, the same gesture should be in the same folder
   7. After all images of differnet gestures have been taken and stored in distinct folders (such as folders 1-5, therefore, 5 gestures), run train.py
-  8. Finally, run predict_live.py which should allow you to test the prediction model 
+  8. Finally, run predict_live.py which should allow you to test the prediction model
+
+Note: You can press Q to exit.
