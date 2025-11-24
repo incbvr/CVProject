@@ -14,4 +14,4 @@ To run the program, there are two approaches:
   7. After all images of differnet gestures have been taken and stored in distinct folders (such as folders 1-5, therefore, 5 gestures), run train.py
   8. Finally, run predict_live.py which should allow you to test the prediction model
 
-Note: You can press Q to exit.
+Note: You can press Q to exit. Please also ensure that your manual data is structured as such: Data/1, Data/2, where 1,2 are hand gesture folders and Data is the main folder.
