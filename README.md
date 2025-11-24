@@ -1,6 +1,6 @@
 # CVProject
 
-To run the program, there are two approaches:
+To run the program, there are two approaches (PLEASE ENSURE A CAMERA IS CONNECTED FOR dataCollection.py & predict_live.py):
 
   Pre-trained: The hand_model.h5 is pre-trained by us and used a manual dataset consisting of roughly 300 images per hand gesture. If you choose to attempt and run the classifier/predictor, namely the predict_live.py file, it will predict only hand gestures which we have trained it. We have 5 classificiations of hand gestures that the model can detect. This is a quick approach for you to test the functionality and accuracy of this model.
 
